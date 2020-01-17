@@ -5,9 +5,9 @@ const App: React.FC = () => {
     return (
         <div className="App">
             <div>
-                Branch: master
+                Branch: branch1
             </div>
-            x = 1
+            x = 2
         </div>
     );
 };
