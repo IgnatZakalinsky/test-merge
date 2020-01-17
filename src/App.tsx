@@ -7,7 +7,7 @@ const App: React.FC = () => {
             <div>
                 Branch: branch2
             </div>
-            x = 1
+            x = 3
             <div>
                 y = 2
             </div>
